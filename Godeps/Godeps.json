@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/jeremyschlatter/refactor",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Packages": [
+		"."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/kisielk/gotool",
+			"Rev": "d678387370a2eb9b5b0a33218bc8c9d8de15b6be"
+		},
+		{
+			"ImportPath": "go4.org/syncutil",
+			"Rev": "40a0492aa096a3be30c750c4e2216de52a6cf2e3"
+		}
+	]
+}
